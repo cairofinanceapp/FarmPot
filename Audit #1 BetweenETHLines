@@ -9,6 +9,7 @@ TIMELINE: Delivered on 02/14/2023KEY
 COMPONENTS: N/A
 CODEBASE: https://github.com/cairofinanceapp/FarmPot
 Audit Score: 98/100
+Pre Audit vs Resolution 3: https://www.diffchecker.com/5hS0PpUn/
 
 The `PharaoFarmPoT` contract is an investment contract which allows users to deposit tokens in order to receive the same tokens over a time period of 365 days as rewards back. 
 
